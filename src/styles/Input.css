@@ -1,0 +1,15 @@
+#input-container {
+  margin-bottom: 2rem;
+}
+
+p {
+  font-size: 2rem;
+  margin: 0;
+}
+
+input {
+  width: 20rem;
+  height: 3rem;
+  font-size: 3rem;
+  padding: 1rem;
+}
